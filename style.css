@@ -1,0 +1,116 @@
+*{
+	font-family: 'Songti SC';
+	list-style: none;
+	text-decoration: none;
+	border-collapse: collapse;
+	margin:0px;
+	padding: 0px;
+	color: black;
+  }
+  
+  .container {
+	  height: 10vh;
+	  display: flex;
+	}
+
+	body {
+		background-color: #fff;
+		color: #000;
+	}
+
+	  h1{
+		color: black;
+		position: left;
+		font-family :'Songti SC';
+		font-size: 43pt; 
+		margin-left:5px;
+		margin-top: 25px;
+		margin-bottom: 8px;
+	  }
+
+	  .header{
+		  width:1280px;
+		  margin:auto;
+		  background: white;
+		  margin-left:10px;
+	  }
+
+	  .nav{
+		  display:flex;
+		  font-size: 15pt;
+		  margin-top: 3px;
+		  margin-bottom: 3px;
+	  }
+
+	  .nav > li{
+		 margin-left: 25px;
+		  margin-right: 65px;
+	  }
+
+	  .box1{
+		background-color: black;
+	  height: 0.1vh;
+	  width: 111%;
+	  
+	  }
+
+	  .box2{
+		  background-color: gray;
+		  height: 50vh;
+		  width: 60%;
+		  margin-left: 18px;
+		  margin-right: 65px;
+		  margin-top: 40px;
+		  background-attachment: fixed;
+	  }
+
+	  .box3{
+		background-color: gray;
+		height: 50vh;
+		width: 100%;
+		margin-left: 57%;
+		margin-right: 28px;
+		margin-top: 103px;
+		background-attachment: fixed;
+	  }
+
+	  .box4{
+		background-color: black;
+	  height: 0.1vh;
+	  width: 111%;
+	  margin-top: 40vh;
+	  margin-left:3px;
+	  margin-right:3px;
+	  background-attachment: fixed;
+	  }
+
+	  .boxarticle{
+		  background-color:white;
+		  height: 100vh;
+		  width: 100%;
+	  }
+
+	  .title{
+		  color: black;
+		  margin-top: 20px;
+		  font-size: 28pt;
+		  margin-left: 12px;
+
+	  }
+
+	  .content{
+		color: black;
+		margin-top: 5px;
+		font-size: 14pt;
+		margin-left: 18px;
+
+	}
+
+	.content2{
+		color: black;
+		margin-top: 60px;
+		font-size: 19pt;
+		margin-left: 13px;
+
+	}
+	  
