@@ -52,7 +52,7 @@
 	  .box1{
 		background-color: black;
 	  height: 0.1vh;
-	  width: 114%;
+	  width: 100vw;
 	  }
 
 	  .box2{
@@ -68,7 +68,7 @@
 	  .box4{
 		background-color: black;
 	  height: 0.1vh;
-	  width: 114%;
+	  width: 100vw;
 	  margin-top: 37.8vh;
 	  margin-left:3px;
 	  margin-right:3px;
@@ -150,7 +150,7 @@
 
 	  .line{
 		height:1px;
-		width: 114%;
+		width: 100vw;
 		background-color: black;
 	}
 	
